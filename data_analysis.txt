@@ -2,4 +2,4 @@ Data Analysis
 - Biological aspect
 - Social aspect
 - Species Distribution Mapping
-- Suitable habitat
+- Data visualization
